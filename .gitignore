@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.github/actions/deploy-s3-javascript/node_modules
